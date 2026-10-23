@@ -1,0 +1,11 @@
+# 内部工作文件，不纳入公开书稿仓库
+.workbuddy/
+.trae-html-share-packages/
+审校报告_前言与第一编.md
+章节大纲.md
+需求文档.md
+写作注意事项.md
+
+# Python 缓存
+__pycache__/
+*.pyc
